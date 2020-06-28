@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#13227a</color>
+    <color name="colorPrimaryDark">#13227a</color>
+    <color name="colorAccent">#13227a</color>
+
+    <color name="withe">#ffffff</color>
+    <color name="teal_300">#13227a</color>
+    <color name="teal_400">#13227a</color>
+    <color name="teal_500">#13227a</color>
+    <color name="teal_600">#13227a</color>
+    <color name="teal_700">#13227a</color>
+
+</resources>
